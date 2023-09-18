@@ -1,5 +1,8 @@
 .rectangle{
     width: 180px;
     height: 60px;
-    background-color: green;
+    background-color: red;
+}
+body{
+    background: linear-gradient(black, yellow);
 }
