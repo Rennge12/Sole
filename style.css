@@ -2,7 +2,7 @@
     width: 180px;
     height: 60px;
     background-color: yellow;
-    border: double dotted red;
+    border: 7px double dotted red;
 }
 body{
     background: linear-gradient(black, green);
