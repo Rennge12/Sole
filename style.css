@@ -1,7 +1,7 @@
 .rectangle{
     width: 180px;
     height: 60px;
-    background-color: red;
+    background-color: yellow;
 }
 body{
     background: linear-gradient(black, green);
