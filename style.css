@@ -2,7 +2,7 @@
     width: 180px;
     height: 60px;
     background-color: yellow;
-    border: 7px double dotted red;
+    border: 7px double dotted peru;
 }
 body{
     background: linear-gradient(black, green);
